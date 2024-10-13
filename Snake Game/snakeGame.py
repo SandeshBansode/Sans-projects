@@ -2,6 +2,7 @@ import random
 import pygame
 import time
 
+#AUTHOR: SANDESH BANSODE
 
 # Colors
 white = (255, 255, 255)
