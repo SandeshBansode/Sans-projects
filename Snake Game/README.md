@@ -1,3 +1,6 @@
+<b>AUTHOR: SANDESH BANSODE
+</b>
+
 <b>required libraries: </b>
 <br>
 1]pygame 
