@@ -1,8 +1,10 @@
 required libraries: 
+<br>
 1]pygame 
         install by writting this prompt in terminal.
         {   pip install pygame   }
-
+        
+<br>
 
 *FEACTURES:
 -Difficulty selection: Easy, Medium, Hard.
