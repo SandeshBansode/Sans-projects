@@ -1,12 +1,13 @@
-required libraries: 
+<b>required libraries: </b>
 <br>
 1]pygame 
         install by writting this prompt in terminal.
         {   pip install pygame   }
         
-<br>
+<be>
+<b>*FEACTURES:</b>
 
-*FEACTURES:
+<br>
 -Difficulty selection: Easy, Medium, Hard.
 -Clean and colorful graphics.
 -Score tracking.
