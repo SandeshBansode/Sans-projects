@@ -8,6 +8,6 @@
 <br>
 Look no further!
 <br>
-My To-Do List UI is a simple yet effective tool designed to help you manage your daily to-dos.
+My To-Do List UI is a simple yet effective tool designed to help you manage your daily To-Dos.
 <br>
 
